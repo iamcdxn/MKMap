@@ -14,14 +14,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
 
-        self.view.backgroundColor = UIColor.white
+        self.view.backgroundColor = UIColor.black
 
         let fullScreenSize = UIScreen.main.bounds.size
 
         // 使用 UISegmentedControl(items:) 建立 UISegmentedControl
         // 參數 items 是一個陣列 會依據這個陣列顯示選項
         // 除了文字 也可以擺放圖片 像是 [UIImage(named:"play")!,"晚餐"]
-        let mySegmentedControl = UISegmentedControl(items: ["早餐", "午餐", "晚餐", "宵夜"])
+        let mySegmentedControl = UISegmentedControl(items: [UIImage(named:"icon_photo") ?? "早餐", "午餐", "晚餐", "宵夜"])
 
         // 設置外觀顏色 預設為藍色
         mySegmentedControl.tintColor = UIColor.green
