@@ -26,12 +26,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // 把 window 顯示出來
         self.window?.makeKeyAndVisible()
 
-        // 宣告一個 view controller 並指定背景為灰色
-        let viewController = UIViewController()
-        viewController.view.backgroundColor = UIColor.gray
+//        // 宣告一個 view controller 並指定背景為灰色
+//        let viewController = UIViewController()
+//        viewController.view.backgroundColor = UIColor.gray
 
         // 指定 root view controller
-        self.window?.rootViewController = viewController
+        self.window?.rootViewController = ViewController()
 
         self.window?.makeKeyAndVisible()
 
