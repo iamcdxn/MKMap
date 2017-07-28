@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:mapkit.xcodeproj">
+      location = "group:/Users/IamCdxN/Dropbox/[&#x7a0b;&#x5f0f;]/[appWorks]/0728MKmap/MKMap/mapkit/tryingMap.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

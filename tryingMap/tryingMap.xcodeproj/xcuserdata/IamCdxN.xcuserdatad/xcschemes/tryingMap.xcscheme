@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "644276AC1F2ACE0000159CA9"
-            BuildableName = "mapkit.app"
-            BlueprintName = "mapkit"
-            ReferencedContainer = "container:mapkit.xcodeproj">
+            BuildableName = "tryingMap.app"
+            BlueprintName = "tryingMap"
+            ReferencedContainer = "container:tryingMap.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "644276AC1F2ACE0000159CA9"
-            BuildableName = "mapkit.app"
-            BlueprintName = "mapkit"
-            ReferencedContainer = "container:mapkit.xcodeproj">
+            BuildableName = "tryingMap.app"
+            BlueprintName = "tryingMap"
+            ReferencedContainer = "container:tryingMap.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
