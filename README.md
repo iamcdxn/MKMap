@@ -1,1 +1,3 @@
-# photoTest
+#MKMap
+* UISegmentedControl
+* MKMapView
